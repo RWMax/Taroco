@@ -26,5 +26,6 @@ services:
       - /data/redis:/data
     networks:
       - taroco
+
 networks:
   taroco:
